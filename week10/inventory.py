@@ -1,3 +1,10 @@
+
+# Reflection 
+# 1. The thing that surprised me the most about lists is the methods it comes with.
+# There are so many necessary methods such as .remove() that make code so much easier.
+# 2. There was a time in my finance class in high school where I had to split a list of college names into parts based on their acceptance rate.
+# With Python, I could have used if statements and then used list methods to categorize them based on those acceptance rate categories like "10-20%."
+
 print("--- Exercise 1: Build the list ---")
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
 print(inventory)
